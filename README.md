@@ -1,2 +1,2 @@
-# Hospital-Management-System
-A Hospital Management System using DBMS and MySQL
+video
+https://drive.google.com/file/d/1H76qp11sAZcz3jim1zPDZu_BiNI6GOfj/view?usp=drive_link
